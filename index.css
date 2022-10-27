@@ -1,0 +1,84 @@
+
+.main{
+    background-color: lightgrey;
+    height: 500px;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%; 
+    display: flex;
+    justify-content: center;
+    padding: 10px;  
+}
+.sedan{
+    background-color: orange;
+    height: 480px;
+    width: 400px;
+    border-radius: 20px 0px 0px 20px;
+    margin-top: 10px;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 25px;
+
+}
+.suvs{
+    background-color: #59adce;
+    height: 480px;
+    width: 400px;
+    /* border-radius: 20px; */
+    margin-top: 10px;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 25px;
+}
+.luxury{
+    background-color: #095d7e;
+    height: 480px;
+    width: 400px;
+    border-radius: 0px 20px 20px 0px;
+    margin-top: 10px;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 25px;
+}
+.sedan button{
+    background-color: white;
+    border-radius: 50px ;
+    padding: 15px;
+    color: orange;
+    border-color: orange;
+    width: 150px;
+    margin-top: 60px;
+    border-width: 0px;
+
+}
+.suvs button{
+    background-color: white;
+    border-radius: 40px ;
+    padding: 15px;
+    color: #59adce;
+    border-color: #59adce;
+    width: 150px;
+    margin-top: 60px;
+    border-width: 0px;
+
+}
+.luxury button{
+    background-color: white;
+    border-radius: 50px ;
+    padding: 15px;
+    color: #095d76;
+    border-color: #095d76;
+    width: 150px;
+    margin-top: 60px;
+    border-width: 0px;
+}
+p{
+    margin-top: 50px;
+}
+h1{
+    margin-top: 80px;
+}
+.main i{
+    margin-top: 40px;
+}
+
